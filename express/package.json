@@ -1,0 +1,19 @@
+{
+  "name": "Margina",
+  "version": "1.0.0",
+  "description": "Margina first nodejs",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.10.7",
+    "utility": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Margina757@gmail.com",
+  "license": "ISC"
+}
